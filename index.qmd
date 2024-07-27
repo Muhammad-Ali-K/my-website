@@ -10,9 +10,7 @@ title: "Muhammad Ali 147101"
 
 -   <a href="https://github.com/Muhammad-Ali-K" target="_blank">GitHub</a>
 
--   
-
-    ## <a href="mailto:muhammadalideutsch@gmail.com">Email</a>
+-   <a href="mailto:muhammadalideutsch@gmail.com">Email</a>
 
 Hello! My name is Muhammad Ali Khan and I am currently pursuing an MSc in International Business Administration with a focus on Data Science and Decision Support at Europa Universität Viadrina, Frankfurt (Oder). I hold a BBA in Finance from SZABIST Karachi. I am passionate about leveraging data and analytical techniques to drive business decisions and support organizational growth.
 
