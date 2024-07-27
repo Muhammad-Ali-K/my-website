@@ -1,14 +1,18 @@
 ---
 title: "Muhammad Ali 147101"
 ---
-<div style="text-align: left;">
-  <img src="Me.png" alt="Profile Picture" style="width: 150px; border-radius: 50%; margin-bottom: 20px;">
-</div>
 
-- <a href="https://www.linkedin.com/in/muhammad-ali-khan-93808a215/" target="_blank">LinkedIn</a>
-- <a href="https://github.com/Muhammad-Ali-K" target="_blank">GitHub</a>
-- <a href="mailto:muhammadalideutsch@gmail.com">Email</a>
----
+::: {style="text-align: left;"}
+<img src="Me.png" alt="Profile Picture" style="width: 150px; border-radius: 50%; margin-bottom: 20px;"/>
+:::
+
+-   <a href="https://www.linkedin.com/in/muhammad-ali-khan-93808a215/" target="_blank">LinkedIn</a>
+
+-   <a href="https://github.com/Muhammad-Ali-K" target="_blank">GitHub</a>
+
+-   
+
+    ## <a href="mailto:muhammadalideutsch@gmail.com">Email</a>
 
 Hello! My name is Muhammad Ali Khan and I am currently pursuing an MSc in International Business Administration with a focus on Data Science and Decision Support at Europa Universität Viadrina, Frankfurt (Oder). I hold a BBA in Finance from SZABIST Karachi. I am passionate about leveraging data and analytical techniques to drive business decisions and support organizational growth.
 
@@ -20,5 +24,5 @@ In addition to my academic and professional pursuits, I am proficient in several
 
 You can find more information about my current projects and experiences on my LinkedIn profile, or feel free to reach out via email at muhammadalideutsch\@gmail.com.
 
-```{}
+```         
 ```
