@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "Muhammad Ali 147101"
+  navbar:
+    background: primary
+    search: true
+    left:
+      - href: index.qmd
+        text: "Home"
+      - text: "More"
+        menu:
+        - href: about.qmd
+          text: "About"
+        - href: contact.qmd
+          text: "Contact"
+
+    
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
